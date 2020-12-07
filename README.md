@@ -3,8 +3,8 @@ An iOS application to create, delete, update and prioritize (favorite / star) th
 
 ## Summary
 * [Introduction & General Information](#introduction--general-information)
-* [Application Design](#application--design)
-* [Run Locally](#run--locally)
+* [Application Design](#application-design)
+* [Run Locally](#run-locally)
 
 ## Introduction & General Information
 - Main purpose of this iOS application is to provide a simple and clutter free user experience for creating, updating, deleting and prioritizing (i.e. favorite / star) the notes.
