@@ -1,0 +1,6 @@
+framework module Pods_Quick_Note {
+  umbrella header "Pods-Quick Note-umbrella.h"
+
+  export *
+  module * { export * }
+}
