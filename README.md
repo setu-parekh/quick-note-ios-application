@@ -31,7 +31,7 @@ An iOS application to create, delete and prioritize the notes
 ![Starred Notes](https://github.com/setu-parekh/quick-note-ios-application/blob/main/Images/view-only-starred-notes.png)
 
 ### Delete Notes
-![Delete Notes](https://github.com/setu-parekh/quick-note-ios-application/blob/main/Images/delete-notes.png)
+![Delete Notes](https://github.com/setu-parekh/quick-note-ios-application/blob/main/Images/delete-note.png)
 
 ## Run Locally
 * Make sure XCode is installed. XCode can be installed from [Mac App Store](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
