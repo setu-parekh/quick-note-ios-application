@@ -16,22 +16,22 @@ An iOS application to create, delete and prioritize the notes
 - Some of the screenshots are shown below, which outline the design.
 
 ### Home Screen
-![Home Screen](https://github.com/setu-parekh/neighborhood-classification/blob/main/Images/home-screen.png)
+![Home Screen](https://github.com/setu-parekh/quick-note-ios-application/blob/main/Images/home-screen.png)
 
 ### Detail Screen (Create / Update / Delete / Star or Favorite)
-![Detail Screen](https://github.com/setu-parekh/neighborhood-classification/blob/main/Images/detail-screen.png)
+![Detail Screen](https://github.com/setu-parekh/quick-note-ios-application/blob/main/Images/detail-screen.png)
 
 ### View All Notes
-![All Notes](https://github.com/setu-parekh/neighborhood-classification/blob/main/Images/view-all-notes.png)
+![All Notes](https://github.com/setu-parekh/quick-note-ios-application/blob/main/Images/view-all-notes.png)
 
 ### View All Notes
-![All Notes](https://github.com/setu-parekh/neighborhood-classification/blob/main/Images/view-all-notes.png)
+![All Notes](https://github.com/setu-parekh/quick-note-ios-application/blob/main/Images/view-all-notes.png)
 
 ### View Starred Notes
-![Starred Notes](https://github.com/setu-parekh/neighborhood-classification/blob/main/Images/view-only-starred-notes.png)
+![Starred Notes](https://github.com/setu-parekh/quick-note-ios-application/blob/main/Images/view-only-starred-notes.png)
 
 ### Delete Notes
-![Delete Notes](https://github.com/setu-parekh/neighborhood-classification/blob/main/Images/delete-notes.png)
+![Delete Notes](https://github.com/setu-parekh/quick-note-ios-application/blob/main/Images/delete-notes.png)
 
 ## Run Locally
 * Make sure XCode is installed. XCode can be installed from [Mac App Store](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
