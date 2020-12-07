@@ -1,5 +1,5 @@
 # quick-note-ios-application
-An iOS application to create, delete and prioritize the notes
+An iOS application to create, delete, update and prioritize (favorite / star) the notes.
 
 ## Summary
 * [Introduction & General Information](#introduction--general-information)
